@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/entities/Quizz.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/CourseDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/services/JmsService.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/utils/JpaMockDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/entities/Course.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/jpa/JpaUserDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/UserDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/entities/User.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/jpa/JpaCourseDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/jpa/JpaQuizzDao.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-ejb/src/java/com/supinfo/supcourses/dao/jpa/JpaQuestionDao.java</file>
+        </group>
+    </open-files>
+</project-private>

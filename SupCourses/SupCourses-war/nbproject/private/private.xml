@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/HomeServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/WEB-INF/menuBar.jspf</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/jsp/auth/Home.jsp</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/CreateCoursesServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/QuizzServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/jsp/auth/Quizz.jsp</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/CoursesServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/web/services/SoapService.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/jsp/Courses.jsp</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/CertificateServlet.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/AuthenticateFilter.java</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/web/jsp/Index.jsp</file>
+            <file>file:/C:/Users/koenigs/Documents/NetBeansProjects/SupCourses/SupCourses-war/src/java/com/supinfo/supcourses/servlets/IndexServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,23 @@
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<div class="ui teal inverted menu">
+    <a href="${pageContext.request.contextPath}/auth/home" class="active item">
+        <i class="large home icon"></i>
+        <c:if test="${user != null}">
+            Home
+        </c:if>
+        <c:if test="${user == null}">
+            Index
+        </c:if>
+    </a>
+    <a href="${pageContext.request.contextPath}/courses" class="active item">
+        <i class="large book icon"></i> Courses
+    </a>
+    <c:if test="${user != null}">
+        <div class="right menu">
+            <a href="${pageContext.request.contextPath}/logout" class="ui item">
+                <i class="large off icon"></i> Logout
+            </a>
+        </div>
+    </c:if>
+</div>
